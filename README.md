@@ -13,7 +13,7 @@ A lightweight open-source skill for AI agents to create structured company and l
 ## Files
 
 - `SKILL.md`: the core skill workflow
-- `examples/`: sample research briefs and prompts
+- `example/`: sample research briefs and prompts
 
 ## Example Prompt
 
