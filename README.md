@@ -1,7 +1,24 @@
-# marketresearchskill
-Marketing Research Skill
+# Market Research Skill
 
+A lightweight open-source skill for AI agents to create structured company and lead research briefs.
 
-This is my new Github project to find out the Agent Skill for Marketing Research. The skills should include finding potential lead, deep research on targeted company. 
+## Use Cases
 
+- Target company research
+- Lead qualification
+- Competitor scanning
+- Sales and partnership preparation
+- Market positioning summaries
 
+## Files
+
+- `SKILL.md`: the core skill workflow
+- `examples/`: sample research briefs and prompts
+
+## Example Prompt
+
+Research `Example Company` for a potential B2B partnership. Focus on products, target customers, recent signals, competitors, and possible outreach angles.
+
+## License
+
+MIT
